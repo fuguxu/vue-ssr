@@ -31,7 +31,7 @@
     "html-webpack-plugin": "^3.2.0",
     "koa-ejs": "^4.2.0",
     "koa-static": "^5.0.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "vue-loader": "^15.7.1",
     "vue-server-renderer": "^2.6.10",
     "vue-style-loader": "^4.1.2",
